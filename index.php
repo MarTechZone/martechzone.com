@@ -24,7 +24,7 @@
 
   <body>
     <nav class="top-bar" data-topbar>
-      <h1><img src="./imgs/MartechZone-100h" style="width: 521px;display: block;margin: 0 auto;padding-top: 0.5rem;"></h1>
+      <h1><img src="./imgs/MarTechZone-100h.png" style="width: 521px;display: block;margin: 0 auto;padding-top: 0.5rem;"></h1>
     </nav>
 
     <div class="row">
