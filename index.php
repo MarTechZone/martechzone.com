@@ -5,72 +5,142 @@
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>MarTech Zone | Heart of Marketing Technology</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/normalize.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css">
-    <link href='http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="css/foundation.css" />
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-
-    <style>
-    .top-bar {background: #fff;border-bottom: 8px solid #414142;height: 8rem;}
-    @media only screen and (min-width: 40.0625em)
-      .top-bar {background: #fff;border-bottom: 8px solid #414142;}
-    </style>
+    <title>MarTech Zone | Solving Business Problems with Data</title>
+    <link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
 
     <?php include_once('analytics.php'); ?>
+
+    <style>
+      a {color: #f69321;}
+      a:hover {color: #dc7a09;}
+
+      .button {background: #f69321;}
+      .button.hollow {color: #f69321;border-color: #f69321;}
+      .button:hover {background: #dc7a09;}
+      .button.hollow:hover {color: #dc7a09;border-color: #dc7a09;}
+
+      dl, ol, ul {list-style-position: inside;}
+    </style>
   </head>
 
   <body>
-    <nav class="top-bar" data-topbar>
-      <h1><img src="./imgs/MartechZone-100h.png" style="width: 521px;display: block;margin: 0 auto;padding-top: 0.5rem;"></h1>
-    </nav>
-
-    <div class="row">
-      <div class="large-8 columns">
-        <h2 style="padding-top: 1.5rem;margin-bottom: 1rem;">Welcome to the MarTech Zone!</h2>
-        <p>Is managing your all your Marketing Technologies a challenge? Do you have people focused on maintaining, upgrading and improving your Marketing Technology in your company? Do you have a process in place for researching and vetting MarTech providers to determine which is best for your business?</p>
-        <p>Many exciting things to come from the MarTech Zone. Sign-up to stay up-to-date and be the first to know when there are new announcements.</p>
-        <!-- p>We'd love to hear from you. You can either reach out to us as a whole and one of our awesome team members will get back to you, or if you have a specific question reach out to one of our staff. We love getting email all day <em>all day</em>.</p -->
+    <!-- Start Top Bar -->
+    <nav class="top-bar">
+      <div class="top-bar-left">
+        <ul class="menu">
+          <li class="menu-text"><img src="./imgs/MartechZone-100h.png" style="max-height: 40px;"></li>
+        </ul>
       </div>
+      <div class="top-bar-right">
+        <ul class="menu" style="">
+          <li class="menu-text"><a href="#solutions">Solutions</a></li>
+          <li class="menu-text"><a href="#help">Contact</a></li>
+        </ul>
+      </div>
+    </nav>
+    <!-- End Top Bar -->
 
-      <div class="large-4 columns">
-        <section class="section" style="background-color: #c1c0c0;padding: 1rem;">
-          <h3 class="title" style="padding-top: 1rem;">Stay Up-to-Date!</h3>
-          <div class="content" data-slug="panel1">
-            <form accept-charset="UTF-8" action="https://qz130.infusionsoft.com/app/form/process/3df60d82a89dc1ba1ae9474301901ac8" class="infusion-form" method="POST">
-              <label class="" for="inf_field_FirstName">First Name *</label>
-              <input class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
-
-              <label class="" for="inf_field_Email">Business Email *</label>
-              <input class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" />
-
-              <input name="inf_form_xid" type="hidden" value="3df60d82a89dc1ba1ae9474301901ac8" />
-              <input name="inf_form_name" type="hidden" value="Register for Newsletter" />
-              <input name="infusionsoft_version" type="hidden" value="1.51.0.57" />
-              <button type="submit" class="radius button" style="background-color: #f69321;display: block;margin: 0 auto;">Send Me Latest Info</button>
-            </form>
-            <script type="text/javascript" src="https://qz130.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=57eed9560e53636b64e4d469d1b663ed"></script>
-          </div>
-        </section>
+    <div class="callout large" style="margin: 0;">
+      <div class="row column text-center">
+        <h1>Changing the World Through Measured Experiences</h1>
+        <p class="lead">Innovate technology experiences that deliver value and delight.</p>
+        <a href="#help" class="button large">Contact for Assistance</a>
+        <a href="#solutions" class="button large hollow">View Services</a>
       </div>
     </div>
 
-    <footer class="row">
-      <div class="large-12 columns">
-      <hr style="margin-top: 0;" />
-        <div class="row">
-          <div class="large-6 columns">
-            <p>&copy; 2016 MarTech Zone, LLC</p>
-          </div>
+    <div class="row" style="background-color: #fde7ce;padding-top: 2.5rem;">
+      <div class="medium-6 columns medium-push-6">
+        <img class="thumbnail" src="http://placehold.it/750x350">
+      </div>
+      <div class="medium-6 columns medium-pull-6">
+        <h2><a name="solutions"></a>Business Goal Solutions</h2>
+        <p>We are a team of technically minded, data-driven marketers with years of experience in the digital space. Our diverse experience solving complex issues at scale in the fast moving technology space will help you solve the key elements that are getting in your way of being successful.</p>
+      </div>
+    </div>
+
+    <div class="row" style="background-color: #fde7ce;padding: 1rem 0 1.5rem 0;">
+      <div class="medium-4 columns">
+        <h3>Data/Analytics</h3>
+        <p>We utilize data to our advantage.</p>
+        <ul>
+          <li>Data Measurement Benchmark</li>
+          <li>Analytics Gap Analysis</li>
+          <li>Reporting Capability</li>
+          <li>Analytics Deep Dive</li>
+        </ul>
+      </div>
+      <div class="medium-4 columns">
+        <h3>Strategy</h3>
+        <p>We align to solve business goals.</p>
+        <ul>
+          <li>Website Flow Analysis</li>
+          <li>Customer Analytics and Insights</li>
+          <li>Omni-Channel Strategy</li>
+          <li>Lead Scoring Roadmap</li>
+        </ul>
+      </div>
+      <div class="medium-4 columns">
+        <h3>Technology</h3>
+        <p>We leverage software to scale.</p>
+        <ul>
+          <li>Digital Audit</li>
+          <li>Platform Integrations</li>
+          <li>Demand Funnel Services</li>
+          <li>CRM &amp; Marketing Automation</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row" style="margin-top: 2.5rem;">
+      <div class="medium-7 large-7 columns">
+        <h2><a name="solve"></a>What are you trying to solve?</h2>
+        <p>Do you have a large budget tied up in technology and not sure that it's working for you? Is your Marketing Technology stack integrated and aligning with your business goals? Does your I.T. group collaborate with your MarTech group? Are you trying to personalize your users experience but not sure how or where to start?</p>
+        <p>Are you struggling to improve your organic traffic? Do you have insights into each piece of content you produce? Do the leads that are getting into your system being routed to the correct sales rep? Are your sales reps wasting time talking to the wrong people in your funnel? Is your funnel working like a well oiled machine?</p>
+        <p>Do you know where you're problems are located? Can you get insights from the data you're capturing from your website? When you run a campaign, can you measure the success/failure of it? Are visitors responding to your landing pages or bouncing off at alarming rates?</p>
+      </div>
+
+      <div class="medium-5 large-5 columns">
+        <div class="callout secondary" style="background-color: #c1c0c0;">
+          <h3 class="title" style=""><a name="help"></a>How can we help?</h3>
+          <form lpformnum="1" accept-charset="UTF-8" action="https://qz130.infusionsoft.com/app/form/process/3df60d82a89dc1ba1ae9474301901ac8" class="infusion-form" method="POST">
+            <div class="row">
+              <div class="small-12 columns">
+                <label class="" for="inf_field_FirstName">First Name *
+                  <input placeholder="Peety McPeanut" class="infusion-field-input-container" id="inf_field_FirstName" name="inf_field_FirstName" type="text" />
+                </label>
+              </div>
+              <div class="small-12 columns">
+                <label class="" for="inf_field_Email">Business Email *
+                  <input placeholder="peety@mcpeanut.com" class="infusion-field-input-container" id="inf_field_Email" name="inf_field_Email" type="text" />
+                </label>
+              </div>
+              <div class="small-12 columns">
+                <label class="">Message *
+                  <textarea class="" rows="5"></textarea>
+                </label>
+
+                <input name="inf_form_xid" type="hidden" value="3df60d82a89dc1ba1ae9474301901ac8" />
+                <input name="inf_form_name" type="hidden" value="Register for Newsletter" />
+                <input name="infusionsoft_version" type="hidden" value="1.51.0.57" />
+
+                <button type="submit" class="radius button" style="background-color: #f69321;display: block;margin: 0 auto;">Contact Us</button>
+              </div>
+            </div>
+          </form>
+          <script type="text/javascript" src="https://qz130.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=57eed9560e53636b64e4d469d1b663ed"></script>
         </div>
       </div>
+    </div>
+
+    <footer class="row column" style="background-color: #eee;padding: .5rem;margin-top: 2rem;">
+      <p style="padding: 1rem 0 0 1rem;">&copy; <?php echo date('Y'); ?> MarTech Zone, LLC</p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
-    <script>$(document).foundation();</script>
-
+    <script src="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
   </body>
 </html>
