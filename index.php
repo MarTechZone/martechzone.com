@@ -110,7 +110,7 @@ Light Purple: ff99ff
           </ul>
         </div>
         <div class="medium-7 columns">
-          <p>Starting with the objective "what are you trying to accomplish" is the cornerstone to every project. If you don't have a goals, KPIs, and baseline data, how are you going to know that a project is successful or not?</p>
+          <p>Starting with the objective "what are you trying to accomplish" is the cornerstone of every project. If you don't have goals, KPIs, and baseline data, how are you going to know that a project is successful or not?</p>
           <p>Do you keep spending money on it or drop it? A goal of "get more leads" is a starting point, but how many leads? When do you need them by for this project to be successful? Is your measurement of success realistic based on historical trends? Are you gathering the necessary data points to be able to accurately show success or failure of the project?</p>
         </div>
       </div>
@@ -149,7 +149,7 @@ Light Purple: ff99ff
         </div>
         <div class="medium-7 columns">
           <p>Technology at it's base isn't a solution, once there is a working strategy or process, then purchasing or leveraging technology to scale is where businesses get the best use of any software.</p>
-          <p>Marketing technologies (MarTech) systems sound amazing, it helps that they're based in marketing, but adding a technology to your stack to enable online chatting, personalized content, or optimization testing for instance need to fit into an overall MarTech plan for your technology stack. If your chat system doesn't integrate with your CRM (Customer Relationship Management) or Marketing Automation system, then someone on your team is either having to do a bunch of manual work or you're left with a lot of incomplete data.</p>
+          <p>Marketing technologies (MarTech) systems sound amazing, it helps that they're based on marketing, but adding a technology to your stack to enable online chatting, personalized content or optimization testing, for instance, need to fit into an overall MarTech plan for your technology stack. If your chat system doesn't integrate with your CRM (Customer Relationship Management) or Marketing Automation system, then someone on your team is either having to do a bunch of manual work or you're left with a lot of incomplete data.</p>
         </div>
       </div>
     </div>
@@ -164,7 +164,7 @@ Light Purple: ff99ff
             <li>Are you getting <strong>ROI</strong> from your technology investment?</li>
             <li><strong>MarTech stack</strong> integrated and aligning to business goals?</li>
             <li>Does your I.T. group <strong>collaborate</strong> with your MarTech group?</li>
-            <li>Wanting to begin <strong>personalizing your users experience</strong>?</li>
+            <li>Wanting to begin <strong>personalizing your user's experience</strong>?</li>
             <li>Do you know where you're <strong>problems</strong> are located?</li>
             <li>Can you get insights from your <strong>website</strong> visitors?</li>
             <li>Are visitors responding to your <strong>landing pages</strong>?</li>
@@ -176,7 +176,7 @@ Light Purple: ff99ff
             <li>Do you have <strong>insights</strong> into each piece of your <strong>content</strong>?</li>
             <li>Are your <strong>leads being routed</strong> to the correct sales rep?</li>
             <li>Are sales reps wasting time talking to the <strong>wrong people</strong>?</li>
-            <li>Is your <strong>funnel</strong> working like a well oiled machine?</li>
+            <li>Is your <strong>funnel</strong> working like a well-oiled machine?</li>
             <li>Can you measure the <strong>success/failure of a campaign</strong>?</li>
             <li>Are you <strong>testing</strong> to see what your audience responds too?</li>
           </ul>
@@ -193,9 +193,9 @@ Light Purple: ff99ff
             <li>Get out of the company headspace and into your users</li>
             <li>Solve for users needs as they align to business needs</li>
           </ul>
-          <p>A user doesn't care how you're company is setup, but more often then not their experience of your company is broken and inconsistent because it's custom to whatever part of the business "owns" that section of the users experience.</p>
-          <p>Users experience your brand in many different ways. Do you have a consistent messaging and visual brand defined? If a visitor contact your business on social media, then went to the website, and then received an email, would it feel like they were in connection with the same company?</p>
-          <p>Studies show that <a href="http://www.uxbooth.com/articles/improve-conversions-with-better-personalization/" target="_blank">75% of consumers prefer when brands personalize</a> messages and offers, how does a business accomplish that if you're not capturing what the user is doing, integrating that information together, and making decisions based off those actions. If <a href="http://www.uxbooth.com/articles/improve-conversions-with-better-personalization/" target="_blank">70% of online consumers get frustrated</a> when promotional items they're offered has nothing to do with their interests, you're doing more harm then good by upsetting them by pushing generic promos into their experience.</p>
+          <p>A user doesn't care how the company is structured, but more often than not their experience of your company is broken and inconsistent because it's custom to whatever part of the business "owns" that section of the user's experience.</p>
+          <p>Users experience your brand in many different ways. Do you have a consistent messaging and visual brand defined? If a visitor contact's your business on social media, then went to the website, and then received an email, would it feel like they were in connection with the same company?</p>
+          <p>Studies show that <a href="http://www.uxbooth.com/articles/improve-conversions-with-better-personalization/" target="_blank">75% of consumers prefer when brands personalize</a> messages and offers, how does a business accomplish that if you're not capturing what the user is doing, integrating that information together, and making decisions based on those actions. If <a href="http://www.uxbooth.com/articles/improve-conversions-with-better-personalization/" target="_blank">70% of online consumers get frustrated</a> when promotional items they're offered has nothing to do with their interests, you're doing more harm than good by upsetting them by pushing generic promos into their experience.</p>
         </div>
         <div class="medium-5 columns">
           <div class="callout">
