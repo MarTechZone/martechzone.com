@@ -65,7 +65,7 @@ Light Purple: ff99ff
       @media only screen and (max-width: 40em) {
         .top-bar-left {margin-top: 0.75rem;}
         .top-bar-right {margin: 1.5rem 0 1rem;}
-        ul {list-style-type: none; text-align: center;}
+        .top-bar ul {list-style-type: none; text-align: center;}
         .menu>li {display: inline; padding: 0;}
         .menu>li a {margin: 0 2rem;}
       } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
