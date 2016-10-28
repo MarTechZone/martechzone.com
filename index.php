@@ -46,6 +46,7 @@ Light Purple: ff99ff
       .bkgd-gray {background-color: #f0f0f0;}
 
       body, h1, h2, h3, h4, h5, h6 {font-family: 'Lato', sans-serif;}
+      h1, h2, h3, h4, h5, h6 {font-weight: 700;}
       p, li {font-size: 1.15rem;line-height: 2rem;}
 
       a {color: #f69321;}
@@ -60,6 +61,14 @@ Light Purple: ff99ff
 
       .callout {background: url('http://img.wallpaperfolder.com/f/4835D329375C/textura-bubbles-bolha-pt.jpg') 0 bottom;}
       .top-bar {background: #f0f0f0;}
+
+      @media only screen and (max-width: 40em) {
+        .top-bar-left {margin-top: 0.75rem;}
+        .top-bar-right {margin: 1.5rem 0 1rem;}
+        ul {list-style-type: none; text-align: center;}
+        .menu>li {display: inline; padding: 0;}
+        .menu>li a {margin: 0 2rem;}
+      } /* max-width 640px, mobile-only styles, use when QAing mobile issues */
     </style>
   </head>
 
@@ -88,12 +97,12 @@ Light Purple: ff99ff
 
     <div style="padding: 2.5rem 0;">
       <div class="row">
-        <div class="medium-6 columns medium-push-6">
-          <img class="thumbnail" src="./imgs/Data-Strategy-Tech-User.png">
-        </div>
-        <div class="medium-6 columns medium-pull-6">
+        <div class="medium-6 columns">
           <h2>Business Goal Solutions</h2>
           <p>We are a team of technically minded, data-driven marketers with years of experience in the digital space. Our diverse experience solving complex issues at scale in the fast moving technology space will help you solve the key elements that are getting in your way of being successful.</p>
+        </div>
+        <div class="medium-6 columns">
+          <img class="thumbnail" src="./imgs/Data-Strategy-Tech-User.png">
         </div>
       </div>
     </div>
@@ -141,7 +150,7 @@ Light Purple: ff99ff
           <p>Studies show that <a href="http://www.uxbooth.com/articles/improve-conversions-with-better-personalization/" target="_blank">75% of consumers prefer when brands personalize</a> messages and offers, how does a business accomplish that if you're not capturing what the user is doing, integrating that information together, and making decisions based on those actions. If <a href="http://www.uxbooth.com/articles/improve-conversions-with-better-personalization/" target="_blank">70% of online consumers get frustrated</a> when promotional items they're offered has nothing to do with their interests, you're doing more harm than good by upsetting them by pushing generic promos into their experience.</p>
         </div>
         <div class="medium-5 columns">
-          <div class="callout">
+          <div class="callout"><a name="help"></a>
             <form accept-charset="UTF-8" action="https://qz130.infusionsoft.com/app/form/process/3df60d82a89dc1ba1ae9474301901ac8" class="infusion-form" method="POST">              <div class="row">
                 <div class="small-12 columns">
                   <label class="" for="inf_field_FirstName">First Name *
