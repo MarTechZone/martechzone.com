@@ -26,6 +26,7 @@
     <link rel="stylesheet" href="http://dhbhdrzi4tiry.cloudfront.net/cdn/sites/foundation.min.css">
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
+    <?php include_once('googletagmanager-head.php'); ?>
     <?php include_once('analytics.php'); ?>
 
     <style>
@@ -73,6 +74,7 @@ Light Purple: ff99ff
   </head>
 
   <body>
+      <?php include_once('googletagmanager-body.php'); ?>
     <!-- Start Top Bar -->
     <nav class="top-bar">
       <div class="top-bar-left">
