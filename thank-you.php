@@ -27,8 +27,7 @@
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
     <?php include_once('googletagmanager-head.php'); ?>
-    <?php include_once('analytics.php'); ?>
-
+    
     <style>
 /*
 Orange: f69321
